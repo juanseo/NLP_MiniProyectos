@@ -1,0 +1,8 @@
+# El corpus se descarga del Hub en la primera ejecución del notebook
+data/
+
+# Registro de corridas: se regenera al ejecutar
+Sesion1/resultados/
+
+.ipynb_checkpoints/
+__pycache__/
